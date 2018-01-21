@@ -1,0 +1,15 @@
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/encodings.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/AndroidClient.iml
+/gradlew
+/gradlew.bat
+/gradle.properties
+/gradle
+.idea

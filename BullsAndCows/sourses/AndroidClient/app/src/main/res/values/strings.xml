@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Bulls and Cows</string>
+    <string name="hello">Welcome to Bulls and Cows!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button2">Results</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="message">Message</string>
+    <string name="game">Start Game</string>
+    <string name="title_activity_game">Game</string>
+    <string name="tryNumber">Enter your number</string>
+    <string name="welcome">Play with me, please</string>
+    <string name="check">Check</string>
+    <string name="log">Your game logs</string>
+    <string name="log2">Enemies game logs</string>
+    <string name="title_activity_list_game">ListGame</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="single_player">Single player</string>
+    <string name="title_activity_game_online">OnlineGame</string>
+    <string name="riddle">Riddle</string>
+    <string name="makeRiddle">Make a number</string>
+    <string name="only4num">Пожалуйста, введите только 4 числа!</string>
+    <string name="compliment1">Поздравляем!\nВы отгадали число!</string>
+    <string name="compliment2">ОК, я классный)</string>
+    <string name="connect">Это нужно убрать</string>
+    <string name="title_activity_results">Results</string>
+    <string name="deleteStatistic">Удалить статистику</string>
+    <string name="correctInputNumber">Загадайте число из 4-ех различных цифр</string>
+    <string name="nonPlayed">Вы еще ни разу не сыграли в нашу игру =(</string>
+    <string name="singleRes">Лучший результат в одиночном режиме </string>
+    <string name="singleGames">\nСыграно игр в одиночном режиме: </string>
+    <string name="multiRes">\nЛучший результат в онлайн режиме </string>
+    <string name="multiGames">\nСыграно игр в онлайн режиме: </string>
+    <string name="newSession">New Session</string>
+    <string name="exit">Сдаться?</string>
+    <string name="exitQuestion">В случае выхода из игры Вам будет засчитано поражение</string>
+    <string name="yes">Выйти из игры</string>
+    <string name="no">Назад в игру</string>
+    <string name="bulls"> Bulls      </string>
+    <string name="cow"> Cow</string>
+    <string name="point">".   "</string>
+    <string name="haveStep">Вы совершили </string>
+    <string name="step">ход</string>
+    <string name="step_ov"> ходов</string>
+    <string name="step_a">хода</string>
+    <string name="yourRiddle">Your riddle </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="number1">1</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="number4">4</string>
+    <string name="number5">5</string>
+    <string name="number6">6</string>
+    <string name="number7">7</string>
+    <string name="number8">8</string>
+    <string name="number9">9</string>
+    <string name="number0">0</string>
+    <string name="force_auth">force_auth</string>
+    <string name="Get_token">Get token</string>
+
+    <string name="title_activity_online">Online</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send">send</string>
+    <string name="Chat">Chat</string>
+
+    <string name="title_activity_list_online_game">ListOnlineGame</string>
+    <string name="title_activity_background">Background</string>
+    <string name="bar">BAR</string>
+    <string name="change">Background</string>
+    <string name="be_back">be back soon...</string>
+    <string name="title_activity_rules">Rules</string>
+
+    <string name="rules">Знакомая всем с детства игра "Быки и Коровы".\n
+Правила просты - компьютер загадывает 4-хзначное число, все цифры которого различны.\n
+Игрок пытается отгадать число, вводя свои варианты 4-хзначного числа.\n
+Компьютер в ответ сообщает, сколько во введенном числе "быков" и "коров".\n
+"Бык" - это цифра введенного числа, совпадающая с цифрой введенного числа и стоящая в обоих числах на одном и том же месте.\n
+"Корова" - то же самое, только места, на которых стоят цифры в своих числах, не совпадают.\n
+Пример: компьютер загадал число 1349.\n
+Игрок ввел 1234.\n
+Результат: 1 бык (цифра 1 стоит в обоих числах на одном месте)\n
+2 коровы (цифры 3 и 4 есть в обоих числах, но стоят на разных местах).\n
+Задача: отгадать число за наименьшее число ходов.</string>
+    <string name="trules">Rules</string>
+
+</resources>
